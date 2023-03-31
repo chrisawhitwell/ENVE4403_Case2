@@ -1,5 +1,5 @@
-# ENVE 3403/4403: Case Study 1
-Here are the notebooks and data for the first case study in ENVE 3403/4403. Please see LMS for the assignment questions.
+# ENVE 3403/4403: Case Study 2
+Here are the notebooks and data for the second case study in ENVE 3403/4403. Please see LMS for the assignment questions.
 
 This will be updated as questions are released that require additional data.
 
